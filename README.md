@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+wellcome+To my Github!; navid2099+Front+end+developer!; cheak+my+Repositories!; hope+you+enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi ,+wellcome+To my Github!; navid2099+Front+end+developer!; cheak+my+Repositories!; hope+you+enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <h3 align="center" font-size='25px'>My favorite tools and skills</h3>
