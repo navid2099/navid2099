@@ -55,7 +55,7 @@
 
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=navid2099&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=navid2099&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 </br>
 
